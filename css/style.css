@@ -12,8 +12,9 @@ nav {
   font-size: 18px;
 }
 #main-menu {
-  background-image: url("../background/the-flatiron-building.png");
+   background-image: url("../background/the-flatiron-building.png");
 }
+
 .process-heading {
   font-size: 23px;
   font-weight: bold;
@@ -31,7 +32,6 @@ font-weight: bold;
   font-weight: bold;
   color: white;
   background-image: url("../background/the-flatiron-building.png");
-
 }
 p {
   font-size: 14px;
@@ -52,3 +52,6 @@ p {
   a:hover {
     color: grey;
   }
+.footer-navigation {
+  font-size: 18px;
+}
