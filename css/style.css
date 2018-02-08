@@ -1,0 +1,54 @@
+body {
+  text-align: center !important;
+  font-family: Helvetica !important;
+}
+.main-heading {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+nav {
+  color: white;
+  font-size: 18px;
+}
+#main-menu {
+  background-image: url("../background/the-flatiron-building.png");
+}
+.process-heading {
+  font-size: 23px;
+  font-weight: bold;
+}
+#our-processes p{
+    font-size: 14px;
+}
+h4 {
+font-size:23px;
+font-weight: bold;
+}
+
+.designed-in-new-york{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../background/the-flatiron-building.png");
+
+}
+p {
+  font-size: 14px;
+}
+.copyright-footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  }
+  a:visited {
+      color: white;
+  }
+  a:link {
+    color: white;
+}
+  a:hover {
+    color: grey;
+  }
